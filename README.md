@@ -1,2 +1,2 @@
 # LotoV4.1
-Structure de base du projet.
+Structure de base complète du projet.

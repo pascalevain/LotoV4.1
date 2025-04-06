@@ -1,5 +1,4 @@
-*.pyc
+.venv/
 __pycache__/
+*.pyc
 .env
-*.log
-*.sqlite3
