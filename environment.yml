@@ -1,0 +1,9 @@
+name: loto-v4
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - streamlit
+    - requests
